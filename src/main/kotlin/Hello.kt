@@ -1,6 +1,6 @@
 class Hello {
     fun main() {
-        var userName = "J"
+        val userName = "J"
         println("Hello $userName!!")
     }
 }
